@@ -1,4 +1,4 @@
 #Example Repo
 
-This is my first repo:)
-Hello World!
+Hello Coders!
+I'm learning Github.
